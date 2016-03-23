@@ -39,7 +39,7 @@ public class NumberDay {
 
         System.out.println("Если ориентироваться на среднюю продолжительность жизни в России, то ");
         System.out.printf("тобою уже прожито %3.2f", ((float)dayCount/(float)allDayCount) * 100.0);
-        System.out.println("% от твоей жизни");
+        System.out.println("% этого показателя");
     }
 
     private static int setCountDay(Date decreaseTime, Date subtractedTime) {
