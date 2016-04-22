@@ -9,7 +9,7 @@ at java.lang.Class.forName0(Native Method)
 at java.lang.Class.forName(Class.java:186)
 at com.intellij.rt.execution.application.AppMain.main(AppMain.java:113)
 Caused by: java.lang.RuntimeException:
-at com.javarush.test.level15.lesson09.task04.Solution.clinit(Solution.java:22)
+at com.javarush.test.level15.lesson09.task04.Solution_old.clinit(Solution_old.java:22)
 
 Hint: Нужно погуглить причину, если получилось следующее:
 java: initializer must be able to complete normally

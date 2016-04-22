@@ -1,0 +1,25 @@
+This is new JavaRush object
+Anton
+Evstifeev
+23
+9
+92
+true
+RUSSIA
+Andrey
+Evstifeev
+13
+7
+107
+true
+RUSSIA
+Andrey
+Shpakov
+6
+8
+93
+true
+RUSSIA
+This is new JavaRush object
+Anton
+Evstifeev

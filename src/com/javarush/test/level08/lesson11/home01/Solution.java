@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 /* Set из котов
-1. Внутри класса Solution создать public static класс кот – Cat.
+1. Внутри класса Solution_old создать public static класс кот – Cat.
 2. Реализовать метод createCats, он должен создавать множество (Set) котов
     и добавлять в него 3 кота.
 3. В методе main удалите одного кота из Set cats.

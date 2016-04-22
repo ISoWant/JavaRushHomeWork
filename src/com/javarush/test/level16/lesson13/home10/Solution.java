@@ -5,7 +5,7 @@ import java.io.*;
 /* Последовательный вывод файлов
 1. Разберись, что делает программа.
 2. В статическом блоке считай 2 имени файла firstFileName и secondFileName.
-3. Внутри класса Solution создай нить public static ReadFileThread, которая реализует
+3. Внутри класса Solution_old создай нить public static ReadFileThread, которая реализует
 интерфейс ReadFileInterface (Подумай, что больше подходит - Thread или Runnable).
 3.1. Метод setFileName должен устанавливать имя файла, из которого будет читаться содержимое.
 3.2. Метод getFileContent должен возвращать содержимое файла.
